@@ -1,7 +1,4 @@
-#1.Line updated in github 1305
-#Line updated from code
-# This is a sample Python script.
-#line updated from code 1305
+
 
 # Press Shift+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
